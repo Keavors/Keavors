@@ -57,16 +57,6 @@ More in private repos: a task organizer with voice input and reminders, split tu
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,kotlin,androidstudio,js,react,vite,django,fastapi,postgres,powershell,git,github&perline=12" alt="stack" /></a>
 </p>
 
-## Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keavors&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keavors&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
-</p>
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Keavors&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-</p>
-
 <!-- Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
