@@ -19,7 +19,7 @@ I make small, opinionated tools for myself and the people around me: when a stoc
 
 - 🔐 Offline first. No clouds, no accounts, data stays where you can see it.
 - 🧪 Tests on the dangerous parts: writing to disk, file formats, cross-device compatibility.
-- 📝 Every project has a README that says *why*, not just *what*.
+- 📝 Every project has a README.
 
 ## Featured projects
 
