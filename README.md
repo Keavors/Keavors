@@ -60,8 +60,11 @@ More in private repos: a task organizer with voice input and reminders, split tu
 ## Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Keavors&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keavors&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Keavors&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Keavors&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+</p>
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=Keavors&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
 <!-- Footer -->
